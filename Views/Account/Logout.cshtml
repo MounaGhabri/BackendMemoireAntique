@@ -1,0 +1,13 @@
+﻿@{
+    Layout = null;
+}
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<h1>Logout</h1>
+
+<form id="logoutForm" asp-controller="Account" asp-action="Logout" method="post" class="form-inline">
+    <button type="submit" class="btn btn-primary">Logout</button>
+</form>

@@ -1,0 +1,39 @@
+﻿@model Product
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<div class="container-fluid">
+    <div class="contact_section_2">
+        <h1 class="text-center">Edit Product</h1>
+        <div class="row">
+            <div class="col-md-12">
+                <form asp-action="Edit" asp-route-id="@Model.Id">
+                    <div class="custom_form_section">
+                        <input asp-for="Name" class="custom_form_fields" placeholder="Namess" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                        <input asp-for="Description" class="custom_form_fields" placeholder="Description" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                        <input asp-for="Image" class="custom_form_fields" placeholder="Image" />
+                        <span asp-validation-for="Image" class="text-danger"></span>
+                        <input asp-for="Price" class="custom_form_fields" placeholder="Price" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                        <select asp-for="CategoryId" class="custom_form_fields mb-3" placeholder="Select Brand">
+                            @foreach (var category in ViewBag.Categories)
+                            {
+                                <option value="@category.Id">@category.Name</option>
+                            }
+                        </select>        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    <div class="send_bt">
+                            <button type="submit">CONFIRM</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

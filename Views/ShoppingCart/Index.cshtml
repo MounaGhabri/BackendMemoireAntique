@@ -1,0 +1,93 @@
+﻿@model ShoppingCart
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<div class="custom-container">
+    <h1 class="text-center mb-2 "  style="color:black;      font-family:'Times New Roman', Times, serif">Shopping Cart</h1>
+
+
+<table class="table">
+    <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Items.FirstOrDefault().Product.Image)
+                </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Items.FirstOrDefault().Product.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Items.FirstOrDefault().Product.Description)
+                </th>
+                
+            <th>
+                @Html.DisplayNameFor(model => model.Items.FirstOrDefault().Product.Price)
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            @if (User.Identity.IsAuthenticated)
+            {
+                @foreach (var item in Model.Items)
+                {
+                    <tr>
+                        <td>
+                            <img src="@item.Product.Image" style="width:auto;max-height:100px;" />
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Product.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Product.Description)
+                        </td>
+                       
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Product.Price)
+                        </td>
+                        <td>
+                            <div>
+                                <a asp-action="DecreaseQuantity" asp-route-id="@item.Id">-</a>
+                                <span>@item.Quantity</span>
+                                <a asp-action="IncreaseQuantity" asp-route-id="@item.Id">+</a>
+                            </div>
+                        </td>
+                        <td>
+                            <a asp-action="RemoveFromCart" asp-route-id="@item.Id">Remove</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+             <div>
+                    <h3 class="text-center" style="font-family:'Times New Roman', Times, serif">You need to be logged in !!!</h3>
+            </div>
+            }
+    </tbody>
+</table>
+@if (User.Identity.IsAuthenticated)
+            {
+@if (Model.Items.Count > 0)
+        {
+            <div>
+                <h4>Total: @Model.TotalPrice D</h4>
+            </div>
+        }
+        else
+        {
+            <div>
+                <h4 style="font-family:'Times New Roman', Times, serif">Your cart is empty.</h4>
+            </div>
+        }
+
+<p>
+   
+    @Html.ActionLink("Back to List", "List", "Product")
+</p>
+}
+</div>

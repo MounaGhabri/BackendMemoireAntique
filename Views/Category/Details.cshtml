@@ -1,0 +1,27 @@
+﻿@model Category
+
+<h1>Category Details</h1>
+
+<div>
+    <h4>Name: @Html.DisplayFor(model => model.Name)</h4>
+</div>
+
+<p>
+    @using System.Security.Claims
+
+    @{
+        // Access the isAdmin claim value for the currently logged-in user
+        var isAdminClaimValue = User.FindFirstValue("isAdmin");
+
+        // Parse the value to a boolean if needed
+        bool isAdmin = bool.Parse(isAdminClaimValue);
+    }
+
+    @if (isAdmin)
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id })
+        @Html.ActionLink("Delete", "Delete", new { id = Model.Id })
+
+    }
+    @Html.ActionLink("Back to List", "Index")
+</p>

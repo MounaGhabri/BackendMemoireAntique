@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    body {
+       
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+
+    .banner_taital{
+        font-weight: bold;
+        background-image: linear-gradient( to right, #cb9b51 22%, #f6e27a 45%, #f6e27a 55%, #cb9b51 78% );
+        color: transparent;
+        -webkit-background-clip: text;
+
+    }
+
+</style>
+
+
+<div class="banner_section layout_padding">
+    <div class="container">
+        
+        <div class="row">
+            <div class="col-md-6">
+                <div class="banner_img"><img src="~/images/monHome.png"></div>
+            </div>
+            <div class="col-md-6">
+                <div class="banner_taital_main">
+                    <h1 class="banner_taital" style=" font-size:35px;text-align:center ; font-family:'Times New Roman', Times, serif" >Discover Our Treasures</h1>
+                    <h5 class="tasty_text" style="color: #A9A9A9	;text-align: center;font-family:'Times New Roman', Times, serif" ">
+                        Welcome to the epic world of Game of Thrones Dive into our exceptional collection  
+                        where passion and magic come to life</h5>
+                </div>
+            </div>
+            <div class="btn_main" style="display: flex; justify-content: center;">
+                <div class="about_bt"  ><a href="@Url.Action("About", "Home")" style="color: #A9A9A9 ; font-family:'Times New Roman', Times, serif" ">ABOUT US</a></div>
+                <div class="callnow_bt active"><a href="@Url.Action("Create", "Messages")" style="color: #A9A9A9;font-family:'Times New Roman', Times, serif" ">CONTACT US</a></div>
+                    </div>
+               
+           
+        </div>
+               
+    </div>
+</div>

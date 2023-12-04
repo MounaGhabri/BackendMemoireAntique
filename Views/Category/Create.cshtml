@@ -1,0 +1,24 @@
+﻿@model Category
+
+
+<div class="container-fluid">
+    <div class="contact_section_2">
+        <h1 class="text-center">Create Brand</h1>
+        <div class="row">
+            <div class="col-md-12">
+                <form asp-action="Create" method="post">
+                    <div class="custom_form_section">
+                        <input asp-for="Name" class="custom_form_fields mb-3" placeholder="Brand Name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                        <div class="send_bt">
+                            <button type="submit">CREATE</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

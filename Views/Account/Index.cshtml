@@ -1,0 +1,50 @@
+﻿@model List<Projet.Models.User>
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+
+
+
+
+<div class="custom-container">
+<h1>User List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Email
+            </th>
+            <th>
+                Is Admin
+            </th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @if (item.IsAdmin)
+                    {
+                        <span class="text-success">Yes</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">No</span>
+                    }
+                </td>
+                <td>
+                        <a asp-action="Delete" asp-route-id="@item.Id"> Delete </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

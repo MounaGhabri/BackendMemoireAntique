@@ -1,0 +1,39 @@
+﻿@model List<Category>
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+
+<div class="custom-container">
+    <h1 class="text-center mb-4">Brands List</h1>
+        <hr />
+    <p class="text-center">
+        <a asp-action="Create" class="mb-4 ">Create New</a>
+    </p>
+    <hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th> Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id"> Delete </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

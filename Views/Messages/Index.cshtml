@@ -1,0 +1,39 @@
+﻿@model List<Message>
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+
+
+
+
+
+<div class="custom-container">
+    <h1 class="text-center mb-2 ">Messages</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Message</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var message in Model)
+        {
+            <tr>
+                <td>@message.Name</td>
+                <td>@message.Email</td>
+                <td>@message.Phone</td>
+                <td>@message.MessageContent</td>
+                <td>
+                        <a asp-action="Delete" asp-route-id="@message.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

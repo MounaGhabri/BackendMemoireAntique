@@ -1,0 +1,165 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Projet.Models
+@inject UserManager<User> UserManager
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Thrones Universe</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="~/css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="~/icone.ico" type="image/x-icon" />
+    <!-- font css -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="~/css/jquery.mCustomScrollbar.min.css">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+     <style>
+    span{
+    font-weight: bold;
+    background-image: linear-gradient( to right, #cb9b51 22%, #f6e27a 45%, #f6e27a 55%, #cb9b51 78% );
+    color: transparent;
+    -webkit-background-clip: text;
+
+    }
+    </style>
+
+
+
+</head>
+<body>
+
+    <div class="header_section header_bg">
+        <div class="nav-img">
+        </div>
+        <div class="container-fluid">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="/">
+                    <img src="~/images/monLogo.png" /><span style="font-size:23px;font-family:'Times New Roman', Times, serif ">   THRONES UNIVERSE</span>
+                </a>
+                    <div class=" navbar-collapse" >
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item ">
+                            <a class="nav-link" href="/" style="color: #A9A9A9;font-family:'Times New Roman', Times, serif">Home</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("About", "Home")" style="color: #A9A9A9;font-family:'Times New Roman', Times, serif">About</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href="/Product/List" style="color: #A9A9A9;font-family:'Times New Roman', Times, serif ">Our Collectibles</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                            <a class="nav-link" href="/Messages/Create" style="color: #A9A9A9;font-family:'Times New Roman', Times, serif">Contact</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href="/ShoppingCart/Index" style="color: #A9A9A9;font-family:'Times New Roman', Times, serif">Cart</a>
+                            </li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                var user = await UserManager.GetUserAsync(User);
+                                bool isAdmin = user.IsAdmin;
+
+                                @if (isAdmin)
+                                {
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="manageDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Manage
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="manageDropdown">
+                                        <li><a class="dropdown-item" href="/Product/Index">Products</a></li>
+                                        <li><a class="dropdown-item" href="/Messages/Index">Messages</a></li>
+                                        <li><a class="dropdown-item" href="/Category/Index">Brands</a></li>
+                                        <li><a class="dropdown-item" href="/Account/Index">Users</a></li>
+
+                                    </ul>
+                                </li>
+                                }
+                                <form class="form-inline my-2 my-lg-0">
+                                    <div class="login_bt">
+                                        <ul>
+                                            <li><a href="/Account/Logout"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Logout</a></li>
+                                       </ul>
+                                    </div>
+                                </form>
+                            }
+                            else
+                            {
+                                <form class="form-inline my-2 my-lg-0">
+                                    <div class="login_bt">
+                                        <ul class="list-inline">
+                                        <!--  <li class="list-inline-item"><a href="/Account/Register"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Register</a></li>-->
+                                        <li class="list-inline-item"><a href="/Account/Login" style="font-family:'Times New Roman', Times, serif"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
+                                        </ul>
+                                    </div>
+                                </form>
+
+                            }
+                        </ul>
+                    
+                    </div>
+                </nav>
+            </div>
+            
+        </div>
+    
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <div class="footer_section" style="background-color: rgba(0, 0, 0, 0.65)">
+        <div class="container">
+            
+                    <div class="location_text mb-4">
+                        <ul>
+                            <li>
+                                    <span >
+                            <span style="color:#9c6f44">
+                                <i  aria-hidden="true" style="font-family:'Times New Roman', Times, serif"></i> Address :Sfax Mahdia Road, 2 kilometers
+                            </span>
+                                    </span>
+                            </li>
+                            <li>
+                        <span ><span style="color:#9c6f44"><i class="fa fa-phone" aria-hidden="true"></i> Phone Number :</span> 74 100 200</span>
+                            </li>
+                            <li>
+                        <span ><span style="color:#9c6f44"> <i class="fa fa-envelope" aria-hidden="true"></i> E-mail : </span>GOTUniverse@gmail.com</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer_social_icon">
+                        <ul>
+                            <li><a href="#"><i class="fa fa-facebook" style="color:black" aria-hidden="true"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter" style="color:black" aria-hidden="true"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin" style="color:black" aria-hidden="true"></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram" style="color:black" aria-hidden="true"></i></a></li>
+                        </ul>
+                    </div>
+        </div>
+       
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

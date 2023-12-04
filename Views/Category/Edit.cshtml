@@ -1,0 +1,23 @@
+﻿@model Category
+
+<div class="container-fluid">
+    <div class="contact_section_2">
+        <h1 class="text-center">Edit Brand</h1>
+        <div class="row">
+            <div class="col-md-12">
+                <form asp-action="Edit" asp-route-id="@Model.Id">
+                    <div class="form-group">
+                        <input asp-for="Name" placeholder="Name" class="custom_form_fields" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="send_bt">
+                        <button type="submit">CONFIRM</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

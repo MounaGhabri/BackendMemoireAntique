@@ -1,0 +1,14 @@
+﻿@model ShoppingCart
+
+<h1>Checkout</h1>
+
+<h4>User: @Model.User.UserName</h4>
+
+<p>
+    Total Amount: @Model.TotalPrice
+</p>
+
+<p>
+    <a asp-action="ConfirmCheckout">Confirm Checkout</a> |
+    <a asp-action="Index">Cancel</a>
+</p>

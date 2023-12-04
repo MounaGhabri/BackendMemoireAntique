@@ -1,0 +1,35 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model List<Product>
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<div class="custom-container">
+
+    <div class="col-sm-12 mb-5">
+        <h1 class="custom-title"  style=" font-family:'Times New Roman', Times, serif ">Explore our captivating assortment</h1>
+        <div class="bulit_icon"><img src="~/images/bulit-icon.png"></div>
+    </div>
+        <div class="container ">
+        <div class="row pl-4">
+                @foreach (var item in Model)
+            {
+                <div class="col-5  ml-5 mb-5 text-center  rounded m-2 pb-3 pt-1" style="background-color:white;">
+                                <div class="coffee_img "><img src="@item.Image"></div>
+                                <h3 class="types_text mt-3">@item.Name</h3>
+                                <h5 class="types_text">@item.Price D</h5>
+                                <p class="looking_text">@item.Description</p>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <form method="post" asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-id="@item.Id">
+                                <div class="send_bt">
+                                <input type="submit" value="Add to Cart" />
+                                </div>
+                            </form>
+                        }
+                    </div>
+            }
+            </div>
+        </div>
+</div>

@@ -1,0 +1,35 @@
+﻿@model Product
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<h1>Product Details</h1>
+
+<div>
+    <h4>Name: @Html.DisplayFor(model => model.Name)</h4>
+    <h4>Description: @Html.DisplayFor(model => model.Description)</h4>
+    <h4>Image: @Html.DisplayFor(model => model.Image)</h4>
+    <h4>Price: @Html.DisplayFor(model => model.Price)</h4>
+    <h4>Category: @Html.DisplayFor(model => model.Category.Name)</h4>
+</div>
+
+<p>
+    @using Microsoft.AspNetCore.Identity
+    @using Projet.Models
+    @inject UserManager<User> UserManager
+
+    @{
+        var user = await UserManager.GetUserAsync(User);
+        bool isAdmin = user.IsAdmin;
+    }
+    @if (isAdmin)
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id })
+
+        @Html.ActionLink("Delete", "Delete", new { id = Model.Id })
+    }
+
+    
+    @Html.ActionLink("Back to List", "Index")
+</p>

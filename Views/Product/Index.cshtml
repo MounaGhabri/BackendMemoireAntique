@@ -1,0 +1,65 @@
+﻿@model List<Product>
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<div class="custom-container">
+<h1 class="text-center mb-2 ">Products List</h1>
+<hr/>
+                 <p class="text-center">  
+                     <a asp-action="Create" class="mb-4 ">Create New</a>
+                 </p>
+<hr />
+    </p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Name
+            </th>
+            <th>
+               Description
+            </th>
+            <th>
+                Image
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Category
+            </th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Image)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+
+                        <a asp-action="Delete" asp-route-id="@item.Id"> Delete </a>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

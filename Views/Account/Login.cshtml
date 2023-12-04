@@ -1,0 +1,32 @@
+﻿@model Projet.ViewModels.LoginViewModel
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+
+
+<div class="container-fluid">
+    <div class="contact_section_2">
+        <div class="row">
+            <div class="col-md-12">
+              
+                <form asp-controller="Account" asp-action="Login" method="post">
+                    @Html.AntiForgeryToken()
+                    <div class="custom_form_section">
+                        <input asp-for="Email" placeholder="Email" class="custom_form_fields" />
+                        <span asp-validation-for="Email"></span>
+                        <input asp-for="Password" type="password" placeholder="Password" class="custom_form_fields" />
+                        <span asp-validation-for="Password"></span>
+                        <input asp-for="RememberMe" type="checkbox" class="form-check-input mt-3" />
+                        <label asp-for="RememberMe" class="form-check-label mt-2" style="color: #A9A9A9;text-align: center;font-family:'Times New Roman', Times, serif"></label>
+                        <div class="send_bt">
+                            <button type="submit" style="font-family:'Times New Roman', Times, serif">LOGIN</button>
+                        </div>
+                        <span  style="color: rgba(0, 0, 0, 0.65);font-family:'Times New Roman', Times, serif">Don't have an account ? <a style="color: #A9A9A9	;text-align: center;font-family:'Times New Roman', Times, serif" href="/Account/Register">Register.</a></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

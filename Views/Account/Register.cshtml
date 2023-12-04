@@ -1,0 +1,35 @@
+﻿@model Projet.ViewModels.RegisterViewModel
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<div class="container-fluid">
+    <div class="contact_section_2">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-sm-12">
+                    <h1 class="contact_taital" style="font-size:35px">Register</h1>
+                    <div class="bulit_icon"><img src="~/images/bulit-icon.png"></div>
+                </div>
+                <form asp-controller="Account" asp-action="Register" method="post">
+                    <div class="custom_form_section">
+                    @Html.AntiForgeryToken()
+                    <input asp-for="Email" placeholder="Email" class="custom_form_fields" />
+                        <span asp-validation-for="Email"></span>
+
+                    <input asp-for="Password" type="password" placeholder="Password" class="custom_form_fields" />
+                        <span asp-validation-for="Password"></span>
+
+                        <input asp-for="ConfirmPassword" type="password" placeholder="Confirm Password" class="custom_form_fields mb-3" />
+                        <span asp-validation-for="ConfirmPassword"></span>
+                        <div class="send_bt ">
+                            <button type="submit" >REGISTER</button>
+                        </div>
+                        <span class="text-muted">Already have an account ? <a href="/Account/Login">Login.</a></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

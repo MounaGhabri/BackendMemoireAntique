@@ -1,0 +1,36 @@
+﻿@model Projet.Models.Message
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000,grey, #808080);
+    }
+</style>
+<div class="contact_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1 class="custom-title" style="font-family:'Times New Roman', Times, serif">Get In Touch</h1>
+                <div class="bulit_icon"><img src="~/images/bulit-icon.png"></div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="contact_section_2">
+            <div class="row">
+                <div class="col-md-12">
+                    <form asp-action="Create" method="post">
+                        <div class="custom_form_section">
+                        <input type="text" class="custom_form_fields" style="font-family:'Times New Roman', Times, serif" placeholder="Your Name" asp-for="Name">
+                        <input type="text" class="custom_form_fields" style="font-family:'Times New Roman', Times, serif" placeholder="Your Email" asp-for="Email">
+                        <input type="text" class="custom_form_fields" style="font-family:'Times New Roman', Times, serif" placeholder="Your Phone" asp-for="Phone">
+                        <textarea class="massage-bt" style="font-family:'Times New Roman', Times, serif" placeholder="Message" rows="5" asp-for="MessageContent"></textarea>
+                            <div class="send_bt">
+                            <button style="font-family:'Times New Roman', Times, serif" type="submit">SEND</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
