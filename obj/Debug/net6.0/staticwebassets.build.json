@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XJEffMeY6c3EHi+9Edm/JsIWlpH6ZHY8eS1309kicAI=",
+  "Hash": "aesHlRF5wAKMrFzylEkd+nm1dgMoYhrAHsku8Bi7yFk=",
   "Source": "Projet",
   "BasePath": "_content/Projet",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Projet\\wwwroot",
       "Source": "Projet",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet.styles.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet.styles.css",
       "SourceId": "Projet",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Projet",
       "RelativePath": "Projet.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet.styles.css"
+      "OriginalItemSpec": "C:\\backendAsp.net\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet.styles.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet.bundle.scp.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet.bundle.scp.css",
       "SourceId": "Projet",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Projet",
       "RelativePath": "Projet.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet.bundle.scp.css"
+      "OriginalItemSpec": "C:\\backendAsp.net\\Asp.net-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet.bundle.scp.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\.DS_Store",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\.DS_Store",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\animate.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\animate.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/animate.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\default-skin.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\default-skin.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/default-skin.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\default-skin.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\icomoon.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\icomoon.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/icomoon.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icomoon.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\jquery.fancybox.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/jquery.fancybox.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.fancybox.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/jquery.mCustomScrollbar.min.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\jquery-ui.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\jquery-ui.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/jquery-ui.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\meanmenu.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\meanmenu.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/meanmenu.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\meanmenu.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\nice-select.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\normalize.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\normalize.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/normalize.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\normalize.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\responsive.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\slick.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\slick.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\css\\style.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\css\\style.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\icone.ico",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\icone.ico",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "icone.ico",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\icone.ico"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\aboutImage.jpg",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\aboutImage.jpg",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/aboutImage.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\aboutImage.jpg"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\back.jpeg",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\back.jpeg",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/back.jpeg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\back.jpeg"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\bulit-icon.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\bulit-icon.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/bulit-icon.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bulit-icon.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\client-bg.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\client-bg.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/client-bg.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-bg.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\foot.jpg",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\foot.jpg",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/foot.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\foot.jpg"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\footer-bg.jpg",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\footer-bg.jpg",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/footer-bg.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\footer-bg.jpg"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\Got.jpg",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\Got.jpg",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/Got.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Got.jpg"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\header-bg.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\header-bg.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/header-bg.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\header-bg.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\icon-4.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\icon-4.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/icon-4.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-4.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\icon-5.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\icon-5.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/icon-5.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-5.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\icon-6.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\icon-6.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/icon-6.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-6.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\icon-7.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\icon-7.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/icon-7.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-7.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\icon-8.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\icon-8.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/icon-8.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-8.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\icon-9.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\icon-9.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/icon-9.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-9.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\monHome.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\monHome.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/monHome.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\monHome.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\monLogo.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\monLogo.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/monLogo.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\monLogo.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\smoke.webp",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\smoke.webp",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/smoke.webp",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\smoke.webp"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\images\\teligram-icon.png",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\images\\teligram-icon.png",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "images/teligram-icon.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teligram-icon.png"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\.DS_Store",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\.DS_Store",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/.DS_Store",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\custom.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/jquery.mCustomScrollbar.concat.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\jquery.validate.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\jquery.validate.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/jquery.validate.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\jquery-3.0.0.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/jquery-3.0.0.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.0.0.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\modernizer.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\modernizer.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/modernizer.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizer.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\plugin.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\plugin.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/plugin.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugin.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\popper.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\js\\slider-setting.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\js\\slider-setting.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "js/slider-setting.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slider-setting.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Projet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\wwwroot\\",
+      "ContentRoot": "C:\\backendAsp.net\\Asp.net-Project\\wwwroot\\",
       "BasePath": "_content/Projet",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

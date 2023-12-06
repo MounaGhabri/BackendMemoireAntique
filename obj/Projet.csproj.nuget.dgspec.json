@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\Projet.csproj": {}
+    "C:\\backendAsp.net\\Asp.net-Project\\Projet.csproj": {}
   },
   "projects": {
-    "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\Projet.csproj": {
+    "C:\\backendAsp.net\\Asp.net-Project\\Projet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\Projet.csproj",
+        "projectUniqueName": "C:\\backendAsp.net\\Asp.net-Project\\Projet.csproj",
         "projectName": "Projet",
-        "projectPath": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\Projet.csproj",
+        "projectPath": "C:\\backendAsp.net\\Asp.net-Project\\Projet.csproj",
         "packagesPath": "C:\\Users\\Mouna G\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJETS\\Thrones universe Asp.net\\Projet-MounaGhabri+AminaBenMaktouf\\Asp.net-Project\\obj\\",
+        "outputPath": "C:\\backendAsp.net\\Asp.net-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mouna G\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"

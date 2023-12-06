@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Projet.Data;
 using Projet.Models;
 
+
 namespace Projet.Controllers
 {
     public class CategoryController : Controller
